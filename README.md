@@ -10,3 +10,6 @@ A repository for PKAR subject in CTU.
 ### Poster is Free to use
 * use with reference to this github repo
  
+### Data
+* polygon layer - Natural Earth 50
+* WCA data - <https://www.worldcubeassociation.org/export/results>
