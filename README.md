@@ -13,3 +13,9 @@ A repository for PKAR subject in CTU.
 ### Data
 * polygon layer - Natural Earth 50
 * WCA data - <https://www.worldcubeassociation.org/export/results>
+
+### SQL commands
+* SQL database from WCA data url was opened in DB browser
+* Using SQL Lite, necessary data was extracted
+* Extracted data was joined with country polygons by ISO in ArcGIS Pro
+* Other data was used to create graphs
